@@ -23,5 +23,5 @@ def letterCasePermutation(S):
         return ans
 
 print(letterCasePermutation("a1b2"))#['a1b2', 'a1B2', 'A1b2', 'A1B2']
-# T: O(M * 2^L)
-# S: O(L)
+# T: O(2^n)
+# S: O(n)
