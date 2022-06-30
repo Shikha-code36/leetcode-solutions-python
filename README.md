@@ -10,4 +10,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Letter Case Permutation](Backtracking/784-letter-case-permutation.py)
     - [x] [Subsets](Backtracking/78-Subsets.py)
     - [x] [Subsets-II](Backtracking/78-Subsets.py)
+    - [x] [Permutations](Backtracking/46-Permutations.py)
     
