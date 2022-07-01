@@ -20,7 +20,7 @@ def permuteUnique(nums):
 
     def dfs():
         if len(perms) == len(nums):
-            result.append(nums.copy())
+            result.append(perms.copy())
             return
 
         for n in count:
@@ -36,7 +36,7 @@ def permuteUnique(nums):
     dfs()
     return result
 
-print(permuteUnique([1,1,2])) #[[1, 1, 2], [1, 1, 2], [1, 1, 2]]
+print(permuteUnique([1,1,2])) #[[1, 1, 2], [1, 2, 1], [2, 1, 1]]
 
 #T:O(n.2^n)
 #S:O(n)
