@@ -16,5 +16,6 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Combination Sum](Backtracking/39-Combination-Sum.py)
     - [x] [Combination Sum II](Backtracking/40-Combination-Sum-II.py)
     - [x] [Combination Sum III](Backtracking/216-Combination-Sum-III.py)
+    - [x] [Generate Parentheses](Backtracking/22-Generate-Parentheses.py)
     
     
