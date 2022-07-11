@@ -20,5 +20,6 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Palindrome Partitioning](Backtracking/131-Palindrome-Partitioning.py)
     - [x] [Letter Combinations of a Phone Number](Backtracking/17-Letter-Combinations-of-a-Phone-Number.py)
     - [x] [Generalized Abbreviation](Backtracking/320-Generalized-Abbreviation.py)
+    - [x] [N-Queens](Backtracking/51-N-Queens.py)
     
     
