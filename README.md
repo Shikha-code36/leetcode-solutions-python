@@ -9,7 +9,7 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Word Search](Backtracking/79-Word-Search.py)
     - [x] [Letter Case Permutation](Backtracking/784-letter-case-permutation.py)
     - [x] [Subsets](Backtracking/78-Subsets.py)
-    - [x] [Subsets-II](Backtracking/78-Subsets.py)
+    - [x] [Subsets-II](Backtracking/90-Subsets-II.py)
     - [x] [Permutations](Backtracking/46-Permutations.py)
     - [x] [Permutations II](Backtracking/47-Permutations-II.py)
     - [x] [Combinations](Backtracking/77-Combinations.py)
