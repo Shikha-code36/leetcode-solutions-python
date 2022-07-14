@@ -25,3 +25,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
 - [x] [Dynamic Programming](Dynamic-Programming)
     - [x] [Climbing Stairs](Dynamic-Programming/70-Climbing-Stairs.py)
     - [x] [Maximum Subarray](Dynamic-Programming/53-maximum-subarray.py)
+    - [x] [Range Sum Query - Immutable](Dynamic-Programming/303-Range-Sum-Query-Immutable.py)
+
