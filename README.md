@@ -28,3 +28,7 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Range Sum Query - Immutable](Dynamic-Programming/303-Range-Sum-Query-Immutable.py)
     - [x] [Counting Bits](Dynamic-Programming/338-Counting-Bits.py)
 
+- [x] [Arrays](Arrays)
+    - [x] [Contains Duplicate](Arrays/217-Contains-duplicate.py)
+    - [x] [Product Of Array Except Self](Arrays/238-product-of-array-except-self.py)
+
