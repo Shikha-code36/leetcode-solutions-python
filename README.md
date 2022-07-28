@@ -35,4 +35,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
 
 - [x] [Two Pointers](Two-Pointers)
     - [x] [Squares of a Sorted Array](Two-Pointers/977-Squares-of-a-Sorted-Array.py)
+    - [x] [Backspace String Compare](Two-Pointers/844-Backspace-String-Compare.py)
 
