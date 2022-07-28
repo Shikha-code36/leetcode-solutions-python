@@ -33,3 +33,6 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Contains Duplicate](Arrays/217-Contains-duplicate.py)
     - [x] [Product Of Array Except Self](Arrays/238-product-of-array-except-self.py)
 
+- [x] [Two Pointers](Two-Pointers)
+    - [x] [Squares of a Sorted Array](Two-Pointers/977-Squares-of-a-Sorted-Array.py)
+
