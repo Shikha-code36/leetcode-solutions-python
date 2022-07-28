@@ -29,6 +29,7 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Counting Bits](Dynamic-Programming/338-Counting-Bits.py)
 
 - [x] [Arrays](Arrays)
+    - [x] [Two Sum](Arrays/001-twosum.py)
     - [x] [Contains Duplicate](Arrays/217-Contains-duplicate.py)
     - [x] [Product Of Array Except Self](Arrays/238-product-of-array-except-self.py)
 
