@@ -91,3 +91,6 @@ def backspaceCompare(self, s, t):
         return True  
     else:
         False
+
+# T:O(M+N)
+# S:O(1)
