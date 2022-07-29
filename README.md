@@ -37,4 +37,5 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Squares of a Sorted Array](Two-Pointers/977-Squares-of-a-Sorted-Array.py)
     - [x] [Backspace String Compare](Two-Pointers/844-Backspace-String-Compare.py)
     - [x] [Find the Duplicate Number](Two-Pointers/287-Find-the-Duplicate-Number.py)
+    - [x] [Subarray Product Less Than K](Two-Pointers/713-Subarray-Product-Less-Than-K.py)
 
