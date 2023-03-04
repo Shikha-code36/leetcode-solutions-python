@@ -1,5 +1,5 @@
 # leetcode-solutions-python
-Python solutions to the leetcode problems
+Python solutions to the leetcode interview problems
 
 ## Notes
 Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion.site/SeanPrashad-Leetcode-Patterns-7b700a3aa52543a4ace4dbdeb718b8cc)
