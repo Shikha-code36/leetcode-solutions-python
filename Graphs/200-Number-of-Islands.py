@@ -47,6 +47,8 @@ class Solution:
             self.dfs(grid,row,col-1)
             self.dfs(grid,row,col+1)
 
+# T:  O(M * N), where M is the number of rows in the grid and N is the number of columns.
+
 '''
 Explanation:
 
