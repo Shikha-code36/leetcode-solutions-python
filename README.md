@@ -39,3 +39,6 @@ Check the notes for the explaination - [Notes](https://stingy-shallot-4ea.notion
     - [x] [Find the Duplicate Number](Two-Pointers/287-Find-the-Duplicate-Number.py)
     - [x] [Subarray Product Less Than K](Two-Pointers/713-Subarray-Product-Less-Than-K.py)
 
+- [x] [Graphs](Graphs)
+    - [x] [Number of Islands](Graphs/200-Number-of-Islands.py)
+
